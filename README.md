@@ -1,8 +1,47 @@
-Hi, I'm Drona 👋
+## 🧠 About Me
 
-I'm a BTech student passionate about Artificial Intelligence, Machine Learning, and Full Stack Development. I enjoy building educational tools, AI-powered applications, and productivity systems that solve real-world problems.
+I'm Drona Madhuri Dadi, a BTech student passionate about Artificial Intelligence, Machine Learning, Computer Vision, and Full Stack Development.
 
-Currently focused on creating practical software, exploring computer vision, and transforming ideas into products through code.
+I enjoy building practical software that solves real-world problems, especially tools that improve learning, productivity, and accessibility. My projects range from AI-powered academic assistants and document chatbots to computer vision applications and web-based productivity tools.
+
+I believe the best way to learn technology is by building with it. That's why I spend most of my time experimenting with new ideas, developing projects, and exploring how AI can be used to create meaningful user experiences.
+
+### What I'm Interested In
+
+* 🤖 Artificial Intelligence & Machine Learning
+* 🧠 Large Language Models (LLMs) & AI Applications
+* 👁️ Computer Vision & Object Detection
+* 🌐 Full Stack Web Development
+* 📚 Educational Technology
+* ⚡ Productivity & Automation Tools
+* 🏗️ Backend Systems & Software Architecture
+
+### What I'm Currently Working On
+
+* Building AI-powered tools for students
+* Exploring advanced computer vision applications
+* Improving backend development and API design
+* Learning scalable software architecture
+* Contributing to projects that have real-world impact
+
+### Beyond Coding
+
+When I'm not coding, I enjoy exploring new technologies, learning about emerging AI trends, improving problem-solving skills, and continuously finding ways to turn ideas into working products.
+
+### My Goal
+
+To become a software engineer who builds intelligent systems and products that make technology more useful, accessible, and impactful for people.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20Applications-blue" />
+  <img src="https://img.shields.io/badge/Learning-System%20Design-green" />
+  <img src="https://img.shields.io/badge/Building-Student%20Tools-orange" />
+  <img src="https://img.shields.io/badge/Interest-Computer%20Vision-red" />
+</p>
+
+<pre>
+💡 Build → Learn → Improve → Repeat
+</pre>
 
 
 <p align="center">
