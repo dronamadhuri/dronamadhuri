@@ -45,10 +45,6 @@ To become a software engineer who builds intelligent systems and products that m
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dronamadhuri/dronamadhuri/output/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,react,flask,fastapi,mongodb,firebase,git,github,vscode" />
 </p>
 
