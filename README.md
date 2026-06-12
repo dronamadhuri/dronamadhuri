@@ -24,10 +24,6 @@ I believe the best way to learn technology is by building with it. That's why I 
 * Learning scalable software architecture
 * Contributing to projects that have real-world impact
 
-### Beyond Coding
-
-When I'm not coding, I enjoy exploring new technologies, learning about emerging AI trends, improving problem-solving skills, and continuously finding ways to turn ideas into working products.
-
 ### My Goal
 
 To become a software engineer who builds intelligent systems and products that make technology more useful, accessible, and impactful for people.
