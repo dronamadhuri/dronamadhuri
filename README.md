@@ -188,15 +188,50 @@ JavaScript-based web application project.
 
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Drona%20Madhuri&fontSize=40&fontColor=ffffff"/>
+<div align="center">
+
+<h1>Drona 👋</h1>
+
+<p>
+AI • Full Stack • Machine Learning
+</p>
+
+</div>
+
+---
+
+### About
+
+I'm a BTech student who enjoys building AI applications, academic tools, and full-stack systems.
+
+### Featured Work
+
+| Project | Description |
+|----------|-------------|
+| AI Academic Assistant | Student-focused AI platform |
+| AI Document Q&A Chatbot | Ask questions from PDFs |
+| AI Mindmap Generator | Visual learning assistant |
+| Smart Study Planner | Personalized study planning |
+| Image Detector | Computer vision project |
+
+### Tech Stack
+
+```text
+Python
+JavaScript
+React
+FastAPI
+Flask
+MongoDB
+OpenCVrc="https://github-readme-streak-stats.herokuapp.com/?user=dronamadhuri&theme=tokyonight" />
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dronamadhuri&show_icons=true&theme=tokyonight" />
-</p>
+### One cool HTML touch I would add
 
+Put this at the very top:
+
+```html
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dronamadhuri&theme=tokyonight" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=500&lines=AI+Developer;Full+Stack+Developer;Building+Student+Tools;Machine+Learning+Enthusiast" />
 </p>
